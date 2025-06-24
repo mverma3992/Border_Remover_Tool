@@ -1,0 +1,11 @@
+Filename,Top,Bottom,Left,Right,Detected Borders
+IMG_10.jpg,49,48,36,37,"top, bottom, left, right"
+IMG_1.jpg,235,234,192,192,"top, bottom, left, right"
+IMG_2.jpg,32,34,0,62,"top, bottom, right"
+IMG_3.jpg,456,49,0,0,"top, bottom"
+IMG_7.jpg,216,118,0,0,"top, bottom"
+IMG_6.jpg,0,674,0,0,bottom
+IMG_4.jpg,0,674,0,0,bottom
+IMG_5.jpg,0,374,0,0,bottom
+IMG_8.jpg,65,64,48,49,"top, bottom, left, right"
+IMG_9.jpg,185,188,0,0,"top, bottom"
